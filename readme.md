@@ -20,10 +20,25 @@
 - Input atau masukkan jumlah kuantitas nasi kotak yang akan dipesan
 - Klik pesan untuk memproses data yang telah diinput.
 
+## Fitur
+
+Pelanggan dapat memilih menu nasi kotak yang tersedia
+
+- Pelanggan dapat memilih jumlah pesanan
+- Pelanggan dapat melihat perkiraan harga dan diskon dari nasi kotak yang dipesan
+
+## Form pemesanan ini dibangun menggunakan teknologi berikut:
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Bootstrap
+
+### Kontribusi
+
+- Kami menerima kontribusi dalam bentuk bug report atau pull request melalui repositori GitHub kami di link repositori.
+
 ## Author
 
 Muhammad Al Ghifari
-
-## License
-
-MIT
