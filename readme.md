@@ -1,7 +1,10 @@
-Form Pemesanan Nasi Kotak RM. TERSERAH
+## Form Pemesanan Nasi Kotak RM. TERSERAH
 
-Merupakan tugas Uji Kompetensi untuk melengkapi Tugas Asesmen dari LSPBPPTIK,
-Adapun Rincian tugas yang harus dikerjakan sebagai berikut
+### Merupakan tugas Uji Kompetensi untuk melengkapi Tugas Asesmen dari LSPBPPTIK,
+
+### Adapun Rincian tugas yang harus dikerjakan sebagai berikut
+
+---
 
 1. Membuat sebuah fungsi dengan nama hitung_tagihan_awal untuk menghitung tagihan awal.
 
@@ -27,12 +30,18 @@ Adapun Rincian tugas yang harus dikerjakan sebagai berikut
 
 12. Membuat file README untuk halaman web tersebut.
 
-Cara Penggunaan :
+## Cara Penggunaan :
 
--   Pilih cabang yang tempat anda akan memesan Nasi Kotak
--   Input atau masukkan nama pelanggan yang akan memesan nasi kotak
--   Input atau masukkan nomor telepon pelanggan yang akan memesan nasi kotak
--   Input atau masukkan jumlah kuantitas nasi kotak yang akan dipesan
--   Klik pesan untuk memproses data yang telah diinput.
+- Pilih cabang yang tempat anda akan memesan Nasi Kotak
+- Input atau masukkan nama pelanggan yang akan memesan nasi kotak
+- Input atau masukkan nomor telepon pelanggan yang akan memesan nasi kotak
+- Input atau masukkan jumlah kuantitas nasi kotak yang akan dipesan
+- Klik pesan untuk memproses data yang telah diinput.
 
-Dikerjakan Oleh Muhammad Al Ghifari
+## Author
+
+Muhammad Al Ghifari
+
+## License
+
+MIT
