@@ -19,7 +19,6 @@
     foreach($cabang as $cab)
     {
         // echo $cab; //digunakan jika ingin menampilkan secara langsung urutannya
-        echo"<br>";
     }
 
 	//	Instruksi Kerja Nomor 4.
@@ -114,7 +113,6 @@
 			$tagihanAwal = hitung_tagihan_awal($dataPesanan['jumlahPesanan'], $hargaSatuan);
 
 			//	Menginisiasi variabel $diskon dengan nilai awal 0.
-			$diskon = 0;
 			
 			//	Instruksi Kerja Nomor 10.
 			//	Menghitung diskon.
